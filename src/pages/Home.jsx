@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="page">
       <div className="home-intro">
-        <h1 className="home-name">Cathy Wang</h1>
+        <h1 className="home-name">Cath Ge-Wang</h1>
         <p className="home-tagline">researcher · builder · curious person</p>
         <p className="home-desc">
           I think carefully about hard problems. This is a small corner of the internet
