@@ -1,9 +1,28 @@
 export default function Me() {
   return (
-    <div className="page">
+    <div className="page room-me">
       <div className="page-header">
+        <span className="page-eyebrow">file 01 — specimen record</span>
         <h1 className="page-title">me</h1>
         <p className="page-subtitle">who I am</p>
+      </div>
+
+      <div className="specimen-frame">
+        <div className="specimen-glass" aria-hidden="true" />
+        <div className="specimen-meta">
+          <div className="specimen-field">
+            <span className="specimen-field-key">status</span>
+            <span className="specimen-field-val">active, still forming</span>
+          </div>
+          <div className="specimen-field">
+            <span className="specimen-field-key">classification</span>
+            <span className="specimen-field-val">researcher / builder</span>
+          </div>
+          <div className="specimen-field">
+            <span className="specimen-field-key">clearance</span>
+            <span className="specimen-field-val">public</span>
+          </div>
+        </div>
       </div>
 
       <div className="page-body">
