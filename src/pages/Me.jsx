@@ -27,17 +27,10 @@ export default function Me() {
 
       <div className="page-body">
         <p>
-          Hi — I'm Cath. I'm a researcher and builder interested in the intersection of
-          [your interests here]. I care about understanding things deeply and building things
-          that matter.
+          Hi! I'm Cath. I'm an AI safety researcher and maths student from Hong Kong. My primary research interests lie in AI control and agent foundations, particularly understanding and mitigating emergent misalignment risks in autonomous AI systems. I focus on empirical questions around goal misgeneralisation, alignment faking, and attack selection in agentic evaluations, aiming to clarify failure modes in frontier models. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
         </p>
         <p>
-          I spend most of my time [what you do — studying, researching, working on X].
-          Outside of that, I'm usually reading, thinking, or working on something small
-          and strange.
-        </p>
-        <p>
-          This site is a work in progress, much like everything else.
+          I’m usually based in Oxford, Hong Kong, or Shanghai. I’ve signed the Giving What We Can 10% Pledge and my goal in life is to do the most good I can. I consider the principle of equality and empathy to be some of my core beliefs.
         </p>
       </div>
     </div>

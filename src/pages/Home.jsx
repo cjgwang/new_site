@@ -14,10 +14,9 @@ export default function Home() {
       <div className="home-intro">
         <span className="home-eyebrow">entry · site 07</span>
         <h1 className="home-name">Cath Ge-Wang</h1>
-        <p className="home-tagline">researcher · builder · curious person</p>
+        <p className="home-tagline">maths student · AI safety researcher</p>
         <p className="home-desc">
-          I think carefully about hard problems. This is a small corner of the internet
-          where I keep track of what I'm working on, learning, and thinking about.
+          I'm a Mathematics student at the University of Oxford. I do technical research in AI alignment and AI control, and I work on technical governance at the Machine Research Intelligence Institute. 
         </p>
       </div>
 
